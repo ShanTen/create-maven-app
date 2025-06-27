@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.AppTest" time="0.039" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="jdk.extensions.version" value="17.0.10.0"/>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\shan10\myCode\powershell\create-maven-app\demo-application\target\test-classes;D:\shan10\myCode\powershell\create-maven-app\demo-application\target\classes;C:\Users\jojoh\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse OpenJ9"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="com.ibm.vm.bitmode" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="com.ibm.oti.vm.library.version" value="29"/>
+    <property name="java.vendor.url" value="https://www.ibm.com/semeru-runtimes"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Semeru\jdk-17.0.10.7-openj9\bin\default;C:\Program Files\Semeru\jdk-17.0.10.7-openj9\bin"/>
+    <property name="sun.java.command" value="C:\Users\jojoh\AppData\Local\Temp\surefire15183679887378483442\surefirebooter-20250627212248910_3.jar C:\Users\jojoh\AppData\Local\Temp\surefire15183679887378483442 2025-06-27T21-22-48_711-jvmRun1 surefire-20250627212248910_1tmp surefire_0-20250627212248910_2tmp"/>
+    <property name="surefire.test.class.path" value="D:\shan10\myCode\powershell\create-maven-app\demo-application\target\test-classes;D:\shan10\myCode\powershell\create-maven-app\demo-application\target\classes;C:\Users\jojoh\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\jojoh"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-01-16"/>
+    <property name="java.home" value="C:\Program Files\Semeru\jdk-17.0.10.7-openj9"/>
+    <property name="ibm.signalhandling.rs" value="false"/>
+    <property name="openjdk.methodhandles" value="true"/>
+    <property name="file.separator" value="\"/>
+    <property name="jdk.extensions.name" value="Extensions for OpenJDK for Eclipse OpenJ9"/>
+    <property name="basedir" value="D:\shan10\myCode\powershell\create-maven-app\demo-application"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.compiler" value="j9jit29"/>
+    <property name="com.ibm.util.extralibs.properties" value=""/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="com.ibm.oti.configuration" value="scar"/>
+    <property name="java.awt.fonts" value=""/>
+    <property name="surefire.real.class.path" value="C:\Users\jojoh\AppData\Local\Temp\surefire15183679887378483442\surefirebooter-20250627212248910_3.jar"/>
+    <property name="com.ibm.oti.shared.enabled" value="false"/>
+    <property name="com.ibm.oti.vm.bootstrap.library.path" value="C:\Program Files\Semeru\jdk-17.0.10.7-openj9\bin\default;C:\Program Files\Semeru\jdk-17.0.10.7-openj9\bin"/>
+    <property name="com.ibm.cpu.endian" value="little"/>
+    <property name="java.fullversion" value="17.0.10+7&#10;JRE 17 Windows 10 amd64-64-Bit Compressed References 20240116_624 (JIT enabled, AOT enabled)&#10;OpenJ9   - 2c3d78b48&#10;OMR      - ea8124dbc&#10;JCL      - 2aad089841f based on jdk-17.0.10+7"/>
+    <property name="java.runtime.version" value="17.0.10+7"/>
+    <property name="user.name" value="jojoh"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="IBM Semeru Runtime Open Edition"/>
+    <property name="ibm.signalhandling.sigint" value="true"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Eclipse OpenJ9 VM"/>
+    <property name="java.vendor.version" value="17.0.10.0"/>
+    <property name="ibm.signalhandling.sigchain" value="true"/>
+    <property name="localRepository" value="C:\Users\jojoh\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/ibmruntimes/Semeru-Runtimes/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\jojoh\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.10"/>
+    <property name="com.ibm.system.agent.path" value="C:\Program Files\Semeru\jdk-17.0.10.7-openj9\bin"/>
+    <property name="user.dir" value="D:\shan10\myCode\powershell\create-maven-app\demo-application"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="os.encoding" value="UTF-8"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Semeru\jdk-17.0.10.7-openj9\bin\default;C:\Program Files\Semeru\jdk-17.0.10.7-openj9\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\PowerShell\7;C:\Program Files\Semeru\jdk-17.0.10.7-openj9\bin;C:\Program Files\ImageMagick-7.1.0-Q16-HDRI;C:\Program Files\Semeru\jdk-11.0.17.8-openj9\bin;C:\Program Files\Semeru\jdk-8.0.352.8-openj9\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\jojo\jojoBin\jojo.bat;C:\jojo\rasBin;C:\Program Files\dotnet\;C:\Program Files\MongoDB\Server\4.2\bin;C:\Users\jojoh\AppData\Local\Tesseract-OCR;C:\Program Files\Redis\;C:\Users\jojoh\.cargo\bin;C:\jojo\cliApps;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Go\bin;C:\Users\jojoh\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Neovim\bin;C:\Program Files\WireGuard\;C:\Program Files\Graphviz\bin;C:\jojo\cLang\TenLibs\SDL2-2.28.1\lib\x64;C:\Program Files (x86)\STMicroelectronics\STM32 ST-LINK Utility\ST-LINK Utility;C:\Program Files\HP\HP One Agent;C:\Program Files\gs\gs10.04.0\bin;C:\Program Files\PowerShell\7\;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files (x86)\PuTTY\;C:\Program Files\Tailscale\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;D:\Applications\Cmake\bin;D:\Program Files\GitHub CLI\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;D:\Android\sdk\platform-tools;D:\Android\sdk\tools;D:\Ruby32-x64\bin;C:\Users\jojoh\scoop\shims;C:\Users\jojoh\.pyenv\pyenv-win\bin;C:\Users\jojoh\.pyenv\pyenv-win\shims;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\jojoh\.cargo\bin;C:\Users\jojoh\AppData\Local\Microsoft\WindowsApps;C:\jojo\jojoBin;C:\Users\jojoh\AppData\Local\Programs\Microsoft VS Code\bin;C:\Windows\Program Files(x86)\Git\bin\git.exe;C:\Users\jojoh\AppData\Roaming\npm;C:\Users\jojoh\.dotnet\tools;C:\Program Files\heroku\bin;C:\jojo\cliApps;C:\Users\jojoh\AppData\Local\Microsoft\WindowsApps;C:\Users\jojoh\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\jojoh\go\bin;C:\Users\jojoh\AppData\Local\Programs\oh-my-posh\bin;C:\Users\jojoh\AppData\Local\Programs\oh-my-posh\themes;C:\Users\jojoh\AppData\Roaming\nvm;C:\jojo\jojoBin\activeBats;C:\Users\jojoh\.pyenv\pyenv-win\versions\3.11.0\Scripts;C:\Users\jojoh\.pyenv\pyenv-win\versions\3.11.0;C:\Users\jojoh\AppData\Local\Pandoc\;D:\Applications\PostgreSQL\16\bin;D:\Applications\PostgreSQL\16\lib;D:\Android\sdk\platforms;C:\Program Files\gs\gs10.04.0\bin\;C:\Program Files\SyncToy 2.1;C:\ProgramData\chocolatey\lib\mingw\tools\install\mingw64\bin;C:\Users\jojoh\.dotnet\tools;D:\Applications\JetBrains\IntelliJ IDEA 2024.3.4.1\bin;D:\Applications\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\bin;D:\Applications\PostgreSQL\14\bin;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin;D:\Python27\;D:\Applications\MariaDB 11.7\bin;C:\Users\jojoh\AppData\Local\spicetify;D:\Applications\JetBrains\IntelliJ IDEA Community Edition 2024.3.4.1\plugins\maven\lib\maven3\bin;;."/>
+    <property name="java.vendor" value="IBM Corporation"/>
+    <property name="java.vm.info" value="JRE 17 Windows 10 amd64-64-Bit Compressed References 20240116_624 (JIT enabled, AOT enabled)&#10;OpenJ9   - 2c3d78b48&#10;OMR      - ea8124dbc&#10;JCL      - 2aad089841f based on jdk-17.0.10+7"/>
+    <property name="java.vm.version" value="openj9-0.43.0"/>
+    <property name="com.ibm.jcl.checkClassPath" value=""/>
+    <property name="ibm.system.encoding" value="Cp1252"/>
+    <property name="java.lang.invoke.VarHandle.VAR_HANDLE_GUARDS" value="false"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.example.AppTest" time="0.002"/>
+</testsuite>

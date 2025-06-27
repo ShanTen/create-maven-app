@@ -1,0 +1,18 @@
+{
+    "name": "Demo Application",
+    "version": "1.0.0",
+    "description": "A simple Maven project",
+    "groupId": "com.example",
+    "artifactId": "demo-application",
+    "mainClass": "com.example.App",
+    "buildTool": "Maven",
+    "sourceDirectory": "src/main/java",
+    "testDirectory": "src/test/java",
+    "resourcesDirectory": "src/main/resources",
+    "targetDirectory": "target",
+    "scripts": {
+        "build": "&'D:/Applications/JetBrains/IntelliJ IDEA Community Edition 2024.3.4.1/plugins/maven/lib/maven3/bin/mvn.cmd' clean package",
+        "test": "&'D:/Applications/JetBrains/IntelliJ IDEA Community Edition 2024.3.4.1/plugins/maven/lib/maven3/bin/mvn.cmd' test",
+        "run": "$__tmp__=(Resolve-Path 'target/demo-application-*.jar').path;java -cp $__tmp__ com.example.App"
+    }
+}
